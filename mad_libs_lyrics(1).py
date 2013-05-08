@@ -12,3 +12,14 @@ mad_libs_lyrics.py
 
 * print the new lyrics with variables to the console
 """
+
+a = 'cake'
+b = 'eat'
+c = 'steak'
+d = 'bake'
+print("Give up the " + a)
+print(b + "up the " + a) 
+print("Give up the " + c)
+print("Give up the " + d)
+
+
