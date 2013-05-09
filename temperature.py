@@ -17,3 +17,8 @@ Please enter a temperature in celsius
 > 37
 37.0 degrees celsius is 98.6 degrees fahrenheit
 """
+
+f = raw_input('what degree farenheit is it?')
+c = (int(f) - 32) * 5/9
+
+print(f + " degrees fahrenheit is equal to " + str(c) + " degrees celcius!")
